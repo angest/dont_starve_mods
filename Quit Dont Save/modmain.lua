@@ -1,6 +1,8 @@
 local GetPlayer = GLOBAL.GetPlayer
 local IsGamePurchased = GLOBAL.IsGamePurchased
 local PopupDialogScreen = GLOBAL.require "screens/popupdialog"
+local ShowUpsellScreen = GLOBAL.ShowUpsellScreen
+local StartNextInstance = GLOBAL.StartNextInstance
 local STRINGS = GLOBAL.STRINGS
 local Vector3 = GLOBAL.Vector3
 
